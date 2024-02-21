@@ -1,0 +1,15 @@
+C:\Users\milow\Desktop\Geek_Brains\Итоговая контрольная работа по основному блоку\Final_control_work_1\Код_на_c_sharp\obj\Debug\net8.0\Код_на_c_sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milow\Desktop\Geek_Brains\Итоговая контрольная работа по основному блоку\Final_control_work_1\Код_на_c_sharp\obj\Debug\net8.0\Код_на_c_sharp.AssemblyInfoInputs.cache
+C:\Users\milow\Desktop\Geek_Brains\Итоговая контрольная работа по основному блоку\Final_control_work_1\Код_на_c_sharp\obj\Debug\net8.0\Код_на_c_sharp.AssemblyInfo.cs
+C:\Users\milow\Desktop\Geek_Brains\Итоговая контрольная работа по основному блоку\Final_control_work_1\Код_на_c_sharp\obj\Debug\net8.0\Код_на_c_sharp.csproj.CoreCompileInputs.cache
+C:\Users\milow\Desktop\Geek_Brains\Итоговая контрольная работа по основному блоку\Final_control_work_1\Код_на_c_sharp\obj\Debug\net8.0\Код_на_c_sharp.sourcelink.json
+C:\Users\milow\Desktop\Geek_Brains\Итоговая контрольная работа по основному блоку\Final_control_work_1\Код_на_c_sharp\bin\Debug\net8.0\Код_на_c_sharp.exe
+C:\Users\milow\Desktop\Geek_Brains\Итоговая контрольная работа по основному блоку\Final_control_work_1\Код_на_c_sharp\bin\Debug\net8.0\Код_на_c_sharp.deps.json
+C:\Users\milow\Desktop\Geek_Brains\Итоговая контрольная работа по основному блоку\Final_control_work_1\Код_на_c_sharp\bin\Debug\net8.0\Код_на_c_sharp.runtimeconfig.json
+C:\Users\milow\Desktop\Geek_Brains\Итоговая контрольная работа по основному блоку\Final_control_work_1\Код_на_c_sharp\bin\Debug\net8.0\Код_на_c_sharp.dll
+C:\Users\milow\Desktop\Geek_Brains\Итоговая контрольная работа по основному блоку\Final_control_work_1\Код_на_c_sharp\bin\Debug\net8.0\Код_на_c_sharp.pdb
+C:\Users\milow\Desktop\Geek_Brains\Итоговая контрольная работа по основному блоку\Final_control_work_1\Код_на_c_sharp\obj\Debug\net8.0\Код_на_c_sharp.dll
+C:\Users\milow\Desktop\Geek_Brains\Итоговая контрольная работа по основному блоку\Final_control_work_1\Код_на_c_sharp\obj\Debug\net8.0\refint\Код_на_c_sharp.dll
+C:\Users\milow\Desktop\Geek_Brains\Итоговая контрольная работа по основному блоку\Final_control_work_1\Код_на_c_sharp\obj\Debug\net8.0\Код_на_c_sharp.pdb
+C:\Users\milow\Desktop\Geek_Brains\Итоговая контрольная работа по основному блоку\Final_control_work_1\Код_на_c_sharp\obj\Debug\net8.0\Код_на_c_sharp.genruntimeconfig.cache
+C:\Users\milow\Desktop\Geek_Brains\Итоговая контрольная работа по основному блоку\Final_control_work_1\Код_на_c_sharp\obj\Debug\net8.0\ref\Код_на_c_sharp.dll

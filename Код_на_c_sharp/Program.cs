@@ -1,2 +1,30 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿/*
+Итоговая контрольная работа по основному блоку
+Задача: Написать программу, которая из имеющегося массива строк формирует новый массив из строк, длина которых меньше, либо равна 3 символам. 
+Первоначальный массив можно ввести с клавиатуры, либо задать на старте выполнения алгоритма. При решении не рекомендуется пользоваться 
+коллекциями, лучше обойтись исключительно массивами.
+
+Примеры:
+[“Hello”, “2”, “world”, “:-)”] → [“2”, “:-)”]
+[“1234”, “1567”, “-2”, “computer science”] → [“-2”]
+[“Russia”, “Denmark”, “Kazan”] → [] 
+*/
+
+
+string[] array = {"abc", "def1", "gh", "2487", "21"}; // Исходный массив
+string[] array_new = new string[array.Length]; // Инициализация массива array_new
+int index = 0;
+int index_new = 0;
+
+while (index < array.Length) // Цикл проверки каждого из индексов массива
+{
+    if (array[index].Length <= 3) // Условие для каждой строки массива (если соответствует - пишем в новый массив)
+    {
+        array_new[index_new] = array[index];
+        index_new++;
+    }
+    index++;
+}
+
+Array.Resize(ref array_new, index_new); // Изменение размера массива array_new
+Console.WriteLine($"Новый массив: {string.Join(", ", array_new)}"); // Выводим результат
